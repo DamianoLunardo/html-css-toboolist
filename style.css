@@ -34,11 +34,29 @@ img {
     vertical-align: middle;
 }
 
+li {
+    list-style: none;
+}
+
 .big-box {
     background-color: white;
-    width: 300px;
-    
+    width: auto;
     padding: 50px;
-    margin: 20px;
+    margin: 30px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px;
+}
+
+.ed {
+    width:70px;
+    height: 25px;
+    display: inline-block;
+    background-color: rgba(4, 231, 251, 0.805);
+    border-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
+   
+
+   
 }
 
