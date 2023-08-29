@@ -18,19 +18,14 @@ body {
     margin: 0 auto;
 }
 
-img {
+/*img {
     max-width: 100%;
-}
+    vertical-align:align ;
+}*/
 
 .tob {
     text-align: center;
-}
-
-.main-header {
-    
-    font-size: 35px;
-    background-color: white;
-    font-family: 'Poppins', sans-serif;
+    vertical-align: align; 
 }
 
 .logo {
@@ -40,9 +35,23 @@ img {
     vertical-align: align;
 }
 
+.main-header {
+    font-size: 35px;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
 hr {
     margin-top: 5px;
-   
+}
+
+.button {
+   padding: 5px;
+   size: 40px;
+   border-bottom:solid;
+   color: gray;
 }
 
 .button-a {
@@ -54,7 +63,6 @@ hr {
     border-style: solid;
     height: 25px;
     width:80px
-    
 }
 
 .button-b {
@@ -66,7 +74,6 @@ hr {
     background-color: white;
     height: 25px;
     width: 100px;
-
 }
 
 p {
