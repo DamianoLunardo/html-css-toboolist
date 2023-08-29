@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    max-width:1024px;
+    max-width:500px;
     margin: 0 auto;
 }
 
@@ -22,27 +22,70 @@ img {
     max-width: 100%;
 }
 
+.tob {
+    text-align: center;
+}
+
 .main-header {
-    color:black;
+    
     font-size: 35px;
     background-color: white;
     font-family: 'Poppins', sans-serif;
 }
 
 .logo {
+    margin-top: 10px;
+    margin-left: 10px;
     width: 45px;
-    vertical-align: middle;
+    vertical-align: align;
+}
+
+hr {
+    margin-top: 5px;
+   
+}
+
+.button-a {
+    color: white;
+    border-radius: 5px;
+    border: 1px;
+    border-color: gray;
+    background-color: rgba(4, 231, 251, 0.805);
+    border-style: solid;
+    height: 25px;
+    width:80px
+    
+}
+
+.button-b {
+    color: gray;
+    border-radius: 5px;
+    border: 1px;
+    border-color: gray;
+    border-style: solid;
+    background-color: white;
+    height: 25px;
+    width: 100px;
+
+}
+
+p {
+    padding-top: 20px;
 }
 
 li {
     list-style: none;
+    padding-top: 10px;
 }
 
 .big-box {
     background-color: white;
     width: auto;
-    padding: 50px;
-    margin: 30px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right:100px;
+    margin-bottom: 50px;
     font-family: 'Poppins', sans-serif;
     border-radius: 5px;
 }
