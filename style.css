@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(245, 242, 242);
+}
+
+.container {
+    max-width:none;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.main-header {
+    color:black;
+    font-size: 50px;
+    background-color: white;
+}
+
+.logo {
+    width: 70px;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.button {
+    text-align: center;
+    width: 90px;
+    background-color: white;
+    border-radius: 5px;
+    border-color: gray;
+    border: solid 1px;
+}
+    
+.first-b {
+    background-color: rgb(64, 207, 254);
+    color: white;
+}
+
+.second.b {
+    color: gray;
+}
