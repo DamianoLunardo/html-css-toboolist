@@ -48,15 +48,68 @@ li {
 }
 
 .ed {
-    width:70px;
-    height: 25px;
+    font-size: 10px;
+    width:55px;
+    height: 15px;
     display: inline-block;
     background-color: rgba(4, 231, 251, 0.805);
     border-radius: 10px;
     vertical-align: middle;
     text-align: center;
-   
+}
 
-   
+.goals {
+    font-size: 10px;
+    width:55px;
+    height: 15px;
+    display: inline-block;
+    background-color: rgba(226, 130, 250, 0.994);
+    border-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.rec {
+    font-size: 10px;
+    width:60px;
+    height: 15px;
+    display: inline-block;
+    background-color: rgba(21, 212, 129, 0.994);
+    border-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.mobile {
+    font-size: 10px;
+    width:55px;
+    height: 15px;
+    display: inline-block;
+    background-color: rgba(250, 100, 18, 0.898);
+    border-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.web {
+    font-size: 10px;
+    width:55px;
+    height: 15px;
+    display: inline-block;
+    background-color: rgba(255, 52, 231, 0.911);
+    border-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.sales {
+    font-size: 10px;
+    width:55px;
+    height: 15px;
+    display: inline-block;
+    background-color: rgba(118, 237, 135, 0.994);
+    border-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
 }
 
