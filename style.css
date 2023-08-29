@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@200&display=swap');
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;*/
+
+
 *{
     margin: 0;
     padding: 0;
@@ -9,7 +14,7 @@ body {
 }
 
 .container {
-    max-width:none;
+    max-width:1024px;
     margin: 0 auto;
 }
 
@@ -19,40 +24,21 @@ img {
 
 .main-header {
     color:black;
-    font-size: 50px;
+    font-size: 35px;
     background-color: white;
+    font-family: 'Poppins', sans-serif;
 }
 
 .logo {
-    width: 70px;
+    width: 45px;
     vertical-align: middle;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-.button {
-    text-align: center;
-    width: 90px;
+.big-box {
     background-color: white;
-    border-radius: 5px;
-    border-color: gray;
-    border: solid 1px;
-}
+    width: 300px;
     
-.first-b {
-    background-color: rgb(64, 207, 254);
-    color: white;
+    padding: 50px;
+    margin: 20px;
 }
 
-.second.b {
-    color: gray;
-}
