@@ -54,7 +54,7 @@ hr {
    color: gray;
 }
 
-.button-a {
+.task {
     color: white;
     border-radius: 5px;
     border: 1px;
@@ -65,7 +65,7 @@ hr {
     width:80px
 }
 
-.button-b {
+.add-section {
     color: gray;
     border-radius: 5px;
     border: 1px;
