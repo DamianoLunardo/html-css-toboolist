@@ -147,4 +147,23 @@ li {
     vertical-align: middle;
     text-align: center;
 }
+/*   per fare i simboli a "mano" io ho usato quelli 
+     predefiniti
+
+.task {
+    margin-bottom: 8px;
+}
+.circle {
+    display: inline-block;
+    width: 24px;
+    aspect-ratio: 1 / 1;
+    border-radius: 50px;
+} 
+
+.task-status {
+    color:----;
+}
+*/
+
+
 
