@@ -13,45 +13,26 @@ body {
     background-color: rgb(245, 242, 242);
 }
 
-.container {
-    max-width:500px;
-    margin: 0 auto;
-}
-
-/*img {
-    max-width: 100%;
-    vertical-align:align ;
-}*/
-
-.tob {
-    text-align: center;
-    vertical-align: align; 
-}
-
 .logo {
     margin-top: 10px;
     margin-left: 10px;
+    margin-bottom: 10px;
     width: 45px;
-    vertical-align: align;
+    vertical-align: middle;
 }
 
 .main-header {
     font-size: 35px;
     background-color: white;
+    padding: 14px 25px;
     font-family: 'Poppins', sans-serif;
-}
-
-
-
-hr {
-    margin-top: 5px;
+    font-weight: bold;
 }
 
 .button {
-   padding: 5px;
-   size: 40px;
-   border-bottom:solid;
-   color: gray;
+   padding: 8px;
+   padding-left: 5px;
+   border-bottom: 2px solid rgba(210, 206, 206, 0.976);
 }
 
 .task {
@@ -76,13 +57,17 @@ hr {
     width: 100px;
 }
 
+/* Button-list section */
+
 p {
     padding-top: 20px;
+    padding-left: 8px;
 }
 
 li {
     list-style: none;
     padding-top: 10px;
+    padding-left: 8px;
 }
 
 .big-box {
